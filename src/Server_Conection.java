@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
-
+//блабоа
 public class Server_Conection {
     private static ServerSocket serverSocket;
     private static Socket socket;
